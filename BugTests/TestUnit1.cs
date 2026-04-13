@@ -4,7 +4,7 @@ using BugPro;
 
 namespace Tests
 {
-    
+
     [TestClass]
     public class BugTests
     {
